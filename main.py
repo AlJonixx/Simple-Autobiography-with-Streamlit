@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-        page_title="My Autobiography and Portfolio",
+        page_title="Simple Autobiography and Portfolio",
         page_icon="🤍",
     )
 
